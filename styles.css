@@ -1,6 +1,9 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
+    background-color: black;
+    color: #ccc;
+    
+    font-family: "Comic Sans MS", cursive, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -31,8 +34,8 @@ nav li {
 }
 
 button {
-    background-color: #007bff;
-    color: white;
+    background-color: darkgrey;
+    color: black;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
